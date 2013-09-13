@@ -50,7 +50,7 @@ This posting of the revision to the open data ordinance is an opportunity to gar
 There should be certain expectations about the ability to change verbatim whatever your suggestion or input may be. Given that this ordinance must go through the legislative process and be approved to form by the City Attorney's office, some suggestions may interpreted or translated to match required legal terms and definitions. 
 
 ### **Contributing**
-The issues queue will be the best way to give us feedback and input, and you should expect a prompt response from Supervisor Mark Farrell's office. 
+The [issues queue](https://github.com/SupervisorMarkFarrell/San-Francisco-Open-Data-Legislation/issues) will be the best way to give us feedback and input, and you should expect a prompt response from Supervisor Mark Farrell's office. 
 
 ### **Contact**
 To get in contact with the host to start a discussion about your suggestions: please email Legislative Aide, Jess Montejano at Jess.Montejano@sfgov.org, or call him at 415-554-7752.  
