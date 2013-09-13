@@ -49,7 +49,7 @@ This posting of the revision to the open data ordinance is an opportunity to gar
 
 There should be certain expectations about the ability to change verbatim whatever your suggestion or input may be. Given that this ordinance must go through the legislative process and be approved to form by the City Attorney's office, some suggestions may interpreted or translated to match required legal terms and definitions. 
 
-### **Issues Queue**
+### **Contributing**
 The issues queue will be the best way to give us feedback and input, and you should expect a prompt response from Supervisor Mark Farrell's office. 
 
 ### **Contact**
